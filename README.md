@@ -41,5 +41,5 @@ This project focuses on building a **web application** that delivers a detailed,
 
 > The project is completed and source code is private, due to confidential information in project.
 
-For collaboration inquiries or further information, feel free to [reach out](mailto: ayeshamishree@gmail.com).
+For collaboration inquiries or further information, feel free to reach out (email to: ayeshamishree@gmail.com).
 
