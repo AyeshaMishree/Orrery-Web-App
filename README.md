@@ -1,6 +1,7 @@
 # 🌌 Interactive Solar System & Near-Earth Objects Visualization
 
 > **Note:** This repository provides an overview of the project only. The full source code is kept private due to confidentiality.
+
 ![image](https://github.com/user-attachments/assets/3db491fb-e806-4185-b3eb-b8b47b68c7fd)
 
 ## 1. Introduction & Background
